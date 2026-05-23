@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Database
+*.db
+chroma_db/
+uploads/
+
+# UV
+uv.lock
+
+# OS
+.DS_Store
+Thumbs.db
